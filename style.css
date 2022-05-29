@@ -1,0 +1,49 @@
+body
+{
+ background-color: rgb(9, 80, 231);
+ font-family:cursive;
+}
+
+.header_div
+{
+    color: black;
+    background: cornsilk;
+}
+
+.header_div p
+{
+    font-family:'Roboto', sans-serif;
+    color: red;
+    letter-spacing: 2px ;
+    font-size: 14 ;
+    font-weight: 800 ;
+}
+
+ #result_label
+{
+    color: red 
+}
+
+#result_Accuracy
+{
+  color: red;
+}
+
+.main_div button
+{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    color: lightgreen;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    width: 130px;
+
+}
+
+.copy_right_footer{
+    color: lightpink;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: rgb(21, 170, 230);
+}
